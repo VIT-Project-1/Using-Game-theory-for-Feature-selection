@@ -8,3 +8,5 @@ Welcome to our wiki software guide! This repository provides information about w
 ## Topics
 
 1. [Introduction to Wiki Software](topic1.md)
+
+![Wiki Collaboration](images/demoImage.jpg)
