@@ -10,3 +10,5 @@ Welcome to our wiki software guide! This repository provides information about w
 1. [Introduction to Wiki Software](topic1.md)
 
 ![Wiki Collaboration](demoimage.jpeg)
+
+---
